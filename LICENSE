@@ -1,0 +1,7 @@
+The database assets in this repository are derived from the RogueTech mod
+(https://github.com/BattletechModders/RogueTech) and are subject to that
+project's licence terms.
+
+The pipeline code used to generate these assets is part of RogueTech Codex,
+copyright (C) 2026 Adam Rogers, and is licenced under the GNU General Public
+Licence v3. See https://github.com/adamrogers/RogueTech-Codex/blob/main/LICENSE
